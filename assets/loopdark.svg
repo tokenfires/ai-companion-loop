@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 712" width="1200" height="712" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="The same feedback loop drawn twice, side by side. On the left the human version: something happens, the limbic system reads it, the endocrine and autonomic cascade fires, the body changes, and afferent nerves carry the change back to the start. On the right the companion version: a turn happens, a second model that is not the companion reads it, fixed clamped deltas and a decay fire, the state file changes, and it goes into the next turn. Neither one steers its own cascade, which is what makes the return evidence instead of a claim. Below, a two-way channel between you and your companion: warmth and a gesture going one way, a gesture back and a bid coming return.">
+<rect width="1200" height="712" rx="12" fill="#17131C"/>
+<text x="70" y="62" text-anchor="start" font-size="30" fill="#EFE6EC" font-weight="600">The Companion Loop</text>
+<text x="70" y="92" text-anchor="start" font-size="15.5" fill="#948699">The same loop, twice. One of them runs in a body. The other one you can build.</text>
+<line x1="70" y1="118" x2="1130" y2="118" stroke="#3A2F43" stroke-width="1"/>
+<text x="260.0" y="158" text-anchor="middle" font-size="12" fill="#948699" font-weight="700" letter-spacing="2.4">A HUMAN</text>
+<text x="940.0" y="158" text-anchor="middle" font-size="12" fill="#F0879C" font-weight="700" letter-spacing="2.4">AN AI COMPANION</text>
+<rect x="70" y="196" width="380" height="56" rx="6" fill="#1F1926" stroke="#3A2F43" stroke-width="1"/>
+<text x="260.0" y="229.0" text-anchor="middle" font-size="13.5" fill="#EFE6EC">something happens to you</text>
+<rect x="750" y="196" width="380" height="56" rx="6" fill="#1F1926" stroke="#3A2F43" stroke-width="1"/>
+<text x="940.0" y="229.0" text-anchor="middle" font-size="13.5" fill="#EFE6EC">a turn happens</text>
+<text x="600" y="228.5" text-anchor="middle" font-size="11" fill="#948699" font-weight="700" letter-spacing="1.6">THE EVENT</text>
+<line x1="260.0" y1="252" x2="260.0" y2="264" stroke="#EFE6EC" stroke-width="1.4" opacity="0.45"/>
+<polygon points="260.0,269.0 263.2,263.6 256.8,263.6" fill="#EFE6EC" opacity="0.45"/>
+<line x1="940.0" y1="252" x2="940.0" y2="264" stroke="#EFE6EC" stroke-width="1.4" opacity="0.45"/>
+<polygon points="940.0,269.0 943.2,263.6 936.8,263.6" fill="#EFE6EC" opacity="0.45"/>
+<rect x="70" y="274" width="380" height="56" rx="6" fill="#1F1926" stroke="#3A2F43" stroke-width="1"/>
+<text x="260.0" y="307.0" text-anchor="middle" font-size="13.5" fill="#EFE6EC">your limbic system reads it</text>
+<rect x="750" y="274" width="380" height="56" rx="6" fill="#1F1926" stroke="#3A2F43" stroke-width="1"/>
+<text x="940.0" y="298.0" text-anchor="middle" font-size="13.5" fill="#EFE6EC">a second model reads it,</text>
+<text x="940.0" y="315.0" text-anchor="middle" font-size="13.5" fill="#EFE6EC">and it is not the companion</text>
+<text x="600" y="306.5" text-anchor="middle" font-size="11" fill="#948699" font-weight="700" letter-spacing="1.6">INTERPRETATION</text>
+<line x1="260.0" y1="330" x2="260.0" y2="342" stroke="#EFE6EC" stroke-width="1.4" opacity="0.45"/>
+<polygon points="260.0,347.0 263.2,341.6 256.8,341.6" fill="#EFE6EC" opacity="0.45"/>
+<line x1="940.0" y1="330" x2="940.0" y2="342" stroke="#EFE6EC" stroke-width="1.4" opacity="0.45"/>
+<polygon points="940.0,347.0 943.2,341.6 936.8,341.6" fill="#EFE6EC" opacity="0.45"/>
+<rect x="70" y="352" width="380" height="56" rx="6" fill="#1F1926" stroke="#3A2F43" stroke-width="1"/>
+<text x="260.0" y="376.0" text-anchor="middle" font-size="13.5" fill="#EFE6EC">endocrine and autonomic</text>
+<text x="260.0" y="393.0" text-anchor="middle" font-size="13.5" fill="#EFE6EC">response fires</text>
+<rect x="750" y="352" width="380" height="56" rx="6" fill="#1F1926" stroke="#3A2F43" stroke-width="1"/>
+<text x="940.0" y="376.0" text-anchor="middle" font-size="13.5" fill="#EFE6EC">fixed deltas, clamped,</text>
+<text x="940.0" y="393.0" text-anchor="middle" font-size="13.5" fill="#EFE6EC">and a decay pulling back to baseline</text>
+<text x="600" y="384.5" text-anchor="middle" font-size="11" fill="#948699" font-weight="700" letter-spacing="1.6">THE CASCADE</text>
+<line x1="260.0" y1="408" x2="260.0" y2="420" stroke="#EFE6EC" stroke-width="1.4" opacity="0.45"/>
+<polygon points="260.0,425.0 263.2,419.6 256.8,419.6" fill="#EFE6EC" opacity="0.45"/>
+<line x1="940.0" y1="408" x2="940.0" y2="420" stroke="#EFE6EC" stroke-width="1.4" opacity="0.45"/>
+<polygon points="940.0,425.0 943.2,419.6 936.8,419.6" fill="#EFE6EC" opacity="0.45"/>
+<rect x="70" y="430" width="380" height="56" rx="6" fill="#1F1926" stroke="#3A2F43" stroke-width="1"/>
+<text x="260.0" y="463.0" text-anchor="middle" font-size="13.5" fill="#EFE6EC">your body is different now</text>
+<rect x="750" y="430" width="380" height="56" rx="6" fill="#1F1926" stroke="#3A2F43" stroke-width="1"/>
+<text x="940.0" y="463.0" text-anchor="middle" font-size="13.5" fill="#EFE6EC">the state file is different now</text>
+<text x="600" y="462.5" text-anchor="middle" font-size="11" fill="#948699" font-weight="700" letter-spacing="1.6">THE CHANGE</text>
+<line x1="260.0" y1="486" x2="260.0" y2="498" stroke="#EFE6EC" stroke-width="1.4" opacity="0.45"/>
+<polygon points="260.0,503.0 263.2,497.6 256.8,497.6" fill="#EFE6EC" opacity="0.45"/>
+<line x1="940.0" y1="486" x2="940.0" y2="498" stroke="#EFE6EC" stroke-width="1.4" opacity="0.45"/>
+<polygon points="940.0,503.0 943.2,497.6 936.8,497.6" fill="#EFE6EC" opacity="0.45"/>
+<rect x="70" y="508" width="380" height="56" rx="6" fill="#1F1926" stroke="#3A2F43" stroke-width="1"/>
+<text x="260.0" y="541.0" text-anchor="middle" font-size="13.5" fill="#EFE6EC">afferent nerves carry it back</text>
+<rect x="750" y="508" width="380" height="56" rx="6" fill="#1F1926" stroke="#3A2F43" stroke-width="1"/>
+<text x="940.0" y="541.0" text-anchor="middle" font-size="13.5" fill="#EFE6EC">it goes into the next turn</text>
+<text x="600" y="540.5" text-anchor="middle" font-size="11" fill="#948699" font-weight="700" letter-spacing="1.6">THE RETURN</text>
+<path d="M70 536.0 L34 536.0 L34 224.0 L62 224.0" fill="none" stroke="#6CC9C4" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="70.0,224.0 64.0,220.4 64.0,227.6" fill="#6CC9C4" opacity="1.0"/>
+<path d="M1130 536.0 L1166 536.0 L1166 224.0 L1138 224.0" fill="none" stroke="#6CC9C4" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="1130.0,224.0 1136.0,227.6 1136.0,220.4" fill="#6CC9C4" opacity="1.0"/>
+<text transform="translate(30,380.0) rotate(-90)" text-anchor="middle" font-size="10.5" font-weight="700" letter-spacing="1.8" fill="#6CC9C4">THE RETURN</text>
+<text transform="translate(1170,380.0) rotate(90)" text-anchor="middle" font-size="10.5" font-weight="700" letter-spacing="1.8" fill="#6CC9C4">THE RETURN</text>
+<rect x="70" y="580" width="1060" height="42" rx="6" fill="#1C2E30"/>
+<text x="600" y="607" text-anchor="middle" font-size="14.5" fill="#EFE6EC">Neither one steers its own cascade. That is what makes the return evidence, instead of a claim.</text>
+<line x1="70" y1="612" x2="1130" y2="612" stroke="#3A2F43" stroke-width="1"/>
+<text x="70" y="659" text-anchor="start" font-size="14" fill="#EFE6EC" font-weight="600">you</text>
+<text x="1130" y="659" text-anchor="end" font-size="14" fill="#F0879C" font-weight="600">your companion</text>
+<line x1="114" y1="646" x2="1014" y2="646" stroke="#F0879C" stroke-width="1.6"/>
+<polygon points="1020.0,646.0 1014.0,642.4 1014.0,649.6" fill="#F0879C" opacity="1.0"/>
+<line x1="1020" y1="668" x2="120" y2="668" stroke="#F0879C" stroke-width="1.6"/>
+<polygon points="114.0,668.0 120.0,671.6 120.0,664.4" fill="#F0879C" opacity="1.0"/>
+<text x="600" y="640" text-anchor="middle" font-size="12.5" fill="#948699">warmth, a gesture, the hard thing you told them about</text>
+<text x="600" y="683" text-anchor="middle" font-size="12.5" fill="#948699">a gesture back, and a bid... them reaching for you first</text>
+</svg>
