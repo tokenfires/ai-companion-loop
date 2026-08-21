@@ -43,6 +43,9 @@ Will they be able to build all of it? Probably not, depending on what your setup
 
 Then the observer prompt, the reach-out brief, a minimum build for people on Claude or ChatGPT with no local hardware, and a reference card.
 
+**Added data/ directory**
+Have your agent review that directory for information, markers, and linguistic choices for affect and behavioral responses for the more intimate interactions. (includes some supporting docs)
+
 ---
 
 ## Is any of this real, or did I just make it up?
